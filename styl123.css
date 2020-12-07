@@ -1,0 +1,113 @@
+.centered{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+body{
+	background-image: url('lp3.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.txt1{
+	color: white;
+}
+.tsc{
+	margin-top: 40px;
+	border-radius: 3px;
+	background-color: white;
+	margin-bottom: 30px;
+}
+
+.form-div{
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	/*margin-top: 5%;
+	margin-bottom: 30px;*/
+}
+
+/*.form-div ,a,h4,h6{
+	text-align: center;
+} */
+
+.form-div a{
+	color: white;
+	padding: 2%;
+	border-radius: 10px;
+	background-color: red;
+}
+.btn1{
+	border-radius: 10px;
+	color: red;
+	width: 80%;
+}
+
+.select select,input{
+width: 100%;
+padding: 10px;
+-webkit-appearance:none;
+}
+#tf{
+	margin-bottom: 20px;
+}
+#secy{
+	color: blue;
+}
+.ts1{
+	border-radius: 30px;
+	background-color: #ADFF2F;
+}
+.ts1 span{
+	color: red;
+}
+.btn{
+	color: #ADFF2F;
+}
+#oslo{
+	background-color: #ADFF2F;
+	border-radius: 30px;
+}
+
+#oslo1{
+	border-radius: 30px;
+}
+
+h2 span{
+    color: red;
+}
+#form h5{
+	background-color: #ADFF2F;
+	border-radius: 20px;
+	font-size: 160%;
+}
+#form h6{
+	background-color: #ADFF2F;
+	border-radius: 20px;
+	margin-top: 20px;
+	color: red;
+	
+}
+
+	@media only screen and (max-width: 900px) {
+.f2 .f1
+{
+position: center;
+margin-left: 15%;
+margin-right: 5%;
+}
+}
+
+@media only screen and (max-width: 400px) {
+.f2 .f1
+{
+position: center;
+margin-left: 5%;
+margin-right: 5%;
+}
+}
+
+#foot{
+	background-color: white;
+	clear: both;
+}
